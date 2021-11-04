@@ -95,7 +95,7 @@ sections:
     background_image_opacity: 10
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: Test
     features: []
     feature_padding_vert: medium
     align: center
